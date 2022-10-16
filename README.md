@@ -41,6 +41,7 @@ Step 4 : Test for the XOR patterns.
 
 ### PROGRAM 
 Developed By: Manoj Guna Sundar Tella.
+
 Register No: 212221240026.
 ```
 import numpy as np
